@@ -1,2 +1,2 @@
 # John Garner
-A website I made for my sisters art.
+A mockup website for my sisters artwork. 
